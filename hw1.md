@@ -1,2 +1,2 @@
-Verbs in Latin are called verbal units. They consist of some form of verb with a subject to convey a complete idea.  
-
+A regular Latin verb has 4 principle parts. 
+The first and thrid principle parts are finite verb forms. First person singular is used for these principle parts.
