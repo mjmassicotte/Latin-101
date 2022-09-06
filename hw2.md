@@ -1,3 +1,5 @@
+**+2 Satsifactory**
+
 loved. singular, third person, perfect (complete), indicative, active **amauit**
 was loved. perfect passive, singular. feminine. indicative. **amata est**
 sent. singular, perfect active, indicative, third. **misit**
