@@ -17,7 +17,7 @@ imperfect active: **capebat**
 imperfect passive: **capebatur est**
 
 uenērunt: **uenio, third person, plural, perfect, indicative, active**
-interfectus est: **interficio, thirs person, singular, perfect, indicative, passive**
+interfectus est: **interficio, third person, singular, perfect, indicative, passive**
 faciebat: **facio, third person, singular, imperfect, indicative, active**
 fugit: **fugio, third person, singular, perfect, indicative, active**
 habebantur: **habeo, third person, plural, imperfect, indicative, passive**
