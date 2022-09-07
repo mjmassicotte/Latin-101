@@ -1,8 +1,8 @@
 third-person singular of amo
 perfect active: he loved: **amauit**
-perfect passive: he was loved: **amatus est** 
+perfect passive: he was loved: **amatus/um est** 
 imperfect active: he loves: **amabat**
-imperfect passive: he is loved: **amabaturest**
+imperfect passive: he is loved: **amabatur est**
 
 third-person plural of audio
 perfect active: **audiuērunt**
