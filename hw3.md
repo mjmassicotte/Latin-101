@@ -12,12 +12,12 @@ imperfect passive: **audibantur sunt**
 
 third-person singular of capio
 perfect active: **cepit**
-perfect passive: **captus est**
+perfect passive: **captus/um est**
 imperfect active: **capebat**
-imperfect passive: **capebantur est**
+imperfect passive: **capebatur est**
 
-uenērunt: **to come, third person, plural, perfect, indicative, active**
-interfectus est: **to kill, thirs person, singular, perfect, indicative, passive**
-faciebat: **third person, singular, imperfect, indicative, active**
-fugit: **to flee, third person, singular, perfect, indicative, active**
-habebantur: **to have, third person, plural, imperfect, indicative, passive**
+uenērunt: **uenio, third person, plural, perfect, indicative, active**
+interfectus est: **interficio, thirs person, singular, perfect, indicative, passive**
+faciebat: **facio, third person, singular, imperfect, indicative, active**
+fugit: **fugio, third person, singular, perfect, indicative, active**
+habebantur: **habeo, third person, plural, imperfect, indicative, passive**
