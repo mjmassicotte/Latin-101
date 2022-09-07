@@ -6,7 +6,7 @@ imperfect passive: he is loved: **amabatur est**
 
 third-person plural of audio
 perfect active: **audiuērunt**
-perfect passive: **auditi sunt**
+perfect passive: **auditi/a sunt**
 imperfect active: **audibant**
 imperfect passive: **audibantur sunt**
 
