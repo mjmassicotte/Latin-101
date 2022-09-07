@@ -8,13 +8,13 @@ third-person plural of audio
 perfect active: **audiuērunt**
 perfect passive: **auditi/a sunt**
 imperfect active: **audibant**
-imperfect passive: **audibantur**
+imperfect passive: **audiebantur**
 
 third-person singular of capio
 perfect active: **cepit**
 perfect passive: **captus/um est**
 imperfect active: **capebat**
-imperfect passive: **capebatur**
+imperfect passive: **capiebatur**
 
 uenērunt: **uenio, third person, plural, perfect, indicative, active**
 interfectus est: **interficio, third person, singular, perfect, indicative, passive**
