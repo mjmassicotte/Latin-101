@@ -1,18 +1,18 @@
 third-person singular of amo
 perfect active: he loved: **amauit**
-perfect passive: he was loved: **amatus/um est** 
+perfect passive: he was loved: **amatum est** 
 imperfect active: he loves: **amabat**
 imperfect passive: he is loved: **amabatur**
 
 third-person plural of audio
 perfect active: **audiuērunt**
-perfect passive: **auditi/a sunt**
+perfect passive: **audita sunt**
 imperfect active: **audibant**
 imperfect passive: **audiebantur**
 
 third-person singular of capio
 perfect active: **cepit**
-perfect passive: **captus/um est**
+perfect passive: **captum est**
 imperfect active: **capebat**
 imperfect passive: **capiebatur**
 
