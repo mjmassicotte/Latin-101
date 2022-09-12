@@ -1,5 +1,6 @@
 **+1 Needs revisions**
 
+
 third-person singular of amo
 perfect active: he loved: **amauit**
 perfect passive: he was loved: **amatum est** 
