@@ -8,3 +8,10 @@ Like Latin, you can easily describe one noun with another noun in English (e.g.,
 **the genetive case**
 What case does Latin use to name the subject of a verb?
 **the nominative case**
+**feminine, singular, normative
+masculine, singular, genetive
+masculine, plural, genetive
+masculine, singular, genetive
+masculine, singular, genetive
+masculine, plural, genetive
+masculine, plural, genetive
