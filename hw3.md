@@ -1,5 +1,5 @@
 **+1 Needs revisions**
-
+    
 
 third-person singular of amo
 perfect active: he loved: **amauit**
