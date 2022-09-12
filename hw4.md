@@ -1,3 +1,6 @@
+**+1 Excellent: needs 1 minor revision.**
+**Please note spelling *genitive*.**
+
 What are the three genders of Latin nouns?
 **masculine, feminine, and neuter**
 What are the three pieces of information in a Latin dictionary entry for a noun?
@@ -13,6 +16,6 @@ deus amoris [masculine, singular, nominative] [masculine, singular, genetive]
 amor deorum [masculine, singular, norminative] [masculine, plural, genetive]
 Herculis canis [masculine, singular, genetive] [male or female, singular, nominative]
 nomen dei [neuter, singular, nominative] [masculine, singlular, genetive]
-filii deorum [masculine, singular, nominative] [masculine, plural, genetive]
+filii deorum [masculine, singular❌, nominative] [masculine, plural, genetive]
 nomina filiorum [neuter, plural, nominative] [masculine, plural, genetive]
 the love of Deianirae. This could be interpretted in two ways: the love that Deianirae has or the love someone else has for Deianirae. 
