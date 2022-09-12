@@ -8,11 +8,11 @@ Like Latin, you can easily describe one noun with another noun in English (e.g.,
 **the genetive case**
 What case does Latin use to name the subject of a verb?
 **the nominative case**
-amor Deianirae **[masculine, nominative, singular] [feminine, singular, genitive]
-deus amoris **[masculine, singular, nominative] [masculine, singular, genetive]
-amor deorum **[masculine, singular, norminative] [masculine, plural, genetive]
-Herculis canis **[masculine, singular, genetive] [male or female, singular, nominative]
-nomen dei **[neuter, singular, nominative] [masculine, singlular, genetive]
-filii deorum **[masculine, singular, genetive] [masculine, plural, nominative(?)]
-nomina filiorum [neuter, plural, nominative] [masculine, plural, genetive]**
+amor Deianirae [masculine, nominative, singular] [feminine, singular, genitive]
+deus amoris [masculine, singular, nominative] [masculine, singular, genetive]
+amor deorum [masculine, singular, norminative] [masculine, plural, genetive]
+Herculis canis [masculine, singular, genetive] [male or female, singular, nominative]
+nomen dei [neuter, singular, nominative] [masculine, singlular, genetive]
+filii deorum [masculine, singular, genetive] [masculine, plural, nominative(?)]
+nomina filiorum [neuter, plural, nominative] [masculine, plural, genetive]
 the love of Deianirae. This could be interpretted in two ways: the love that Deianirae has or the love someone else has for Deianirae. 
