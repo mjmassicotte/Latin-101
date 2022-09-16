@@ -1,12 +1,17 @@
 Meleager was the son of Oineus, king of Calydon.
-  Meleagri Oineus filius, 
-His mother was Althaea.
+  Meleager erat Oinei filius, Caludonis rex.
+  
+His mother was Althaea. 
+  Is mater erat Althaea. 
   
 That woman was the daughter of Thestius.
+  Illa erat Thestii filiae.
   
-The brothers of Althaea were killed by Meleager.
+The brothers of Althaea were killed.
+  Althaea fratres interfecti sunt. 
   
-A large number of his sisters were changed into birds, but not the beautiful Deianira.
+A large number of his sisters, the beautiful Deianira.
+Is numeri filiae, Deianira formosa. 
   
-She was the daughter of Dexamenus, according to some stories, but the daughter of Oineus in other versions.
-  
+She was the daughter of Dexamenus,  the daughter of Oineus.
+  Ea erat Dexameni filia, Oinei filia. 
