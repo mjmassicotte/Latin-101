@@ -1,8 +1,8 @@
-Niobe was the wife of Amphion.
-Nioba Amohionis uxor erat.
+Niobe was the wife of Amphion. 
+Nioba Amohionis uxor erat. 
 
-Amphion and Niobe had many children.
-Amohion et Nioba filii multi habuerunt.
+Amphion and Niobe had many children. 
+Amohion et Niobe multos liberos habebant.
 
 Leto repeatedly warned her, but Niobe did not listen to (“hear”) Leto.
 Latona monebet ea, Nioba no audiuit Latona.
