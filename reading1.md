@@ -13,7 +13,7 @@
     
 
 (6) Explain the construction cum eo?
-    
+    Cum is a preposition meaning "accomanied with" that pairs with a noun or pronoun in the     ablative case. Eo is a 
 
 (7) Fully identify the form of fulmen. What function is it playing in the sentence? What type of sentence structure do we find in this sentence?
 
