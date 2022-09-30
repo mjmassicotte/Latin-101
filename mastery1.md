@@ -1,14 +1,14 @@
-interficibat: third, singular, indicative, imperfect, active, "to kill"
+interficibat: third, singular, indicative, imperfect, active
 
-necauit: third, singular, indicative, perfect, active, "slay"
+necauit: third, singular, indicative, perfect, active
 
-occidit: third, singular, indicative, perfect, active, "killed"
+occidit: third, singular, indicative, perfect, active
 
-uenit: third, singular, indicative, perfect, active, "come"
+uenit: third, singular, indicative, perfect, active
 
-contendit: third, singular, indicative, perfect, active, "fight"
+contendit: third, singular, indicative, perfect, active
 
-misit: third, singular, indicative, perfect, active, "send"
+misit: third, singular, indicative, perfect, active
 
 
 
