@@ -14,7 +14,7 @@ misit: third, singular, indicative, perfect, active, "send"
 
 PRIOR DEUS
 SINGULAR
-~case~           ~masculine~     
+(case)           (masculine)     
 nominative       prior deus
 genitive         prioris dei
 dative           priori deo
@@ -33,7 +33,7 @@ ablative         prioribus deis
 
 "THE FORMER MENTIONED SHIP"
 SINGULAR 
-~case~          
+(case)         
 nominative       illa nauis
 genetive         illius nauis
 dative           illi naui
@@ -41,7 +41,7 @@ accusative       illam nauem
 ablative         illa naue
 
 PLURAL
-~case~
+~(ase)
 nominative       illae naues
 genitive         illarum nauium
 dative           illis nauibus
