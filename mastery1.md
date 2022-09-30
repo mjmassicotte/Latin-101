@@ -22,7 +22,7 @@ accusative       priorem deum
 ablative         priore deo
 
 PLURAL
-~case~           ~masculine~
+(case)           (masculine)
 nominative       priores dei
 genitive         priorum deorum
 dative           prioribus deis
@@ -41,7 +41,7 @@ accusative       illam nauem
 ablative         illa naue
 
 PLURAL
-~(ase)
+(case)
 nominative       illae naues
 genitive         illarum nauium
 dative           illis nauibus
