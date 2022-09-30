@@ -1,3 +1,5 @@
+occidit: third, singular, indicative, perfect, active
+
 interficibat: third, singular, indicative, imperfect, active
 
 necauit: third, singular, indicative, perfect, active
