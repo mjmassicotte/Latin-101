@@ -16,10 +16,10 @@
     Cum is a preposition meaning "accomanied with" that pairs with a noun or pronoun in the ablative case. Eo is a pronoun meaning he or him in the ablative case. Therefore when they are paired together, their case agrees and nicely forms a phrase that means "with him".
 
 (7) Fully identify the form of fulmen. What function is it playing in the sentence? What type of sentence structure do we find in this sentence?
-    Neuter, singular, accusative. Fulmen is playing the part of the direct object. 
+    Neuter, singular, accusative. Fulmen is playing the part of the direct object. the sentence structure is subject, direct object, verb.
 
 (8) Fully identify the form of apposita est.
-    Third person, singular, perfect, passive, indicative
+    Third person, singular, perfect, passive, indicative.
 
 (9) What is the antecedent of eam?
     Hesione
