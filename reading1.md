@@ -7,25 +7,30 @@
     Genetive case, working with filium. 
 
 (4) What is the antecedent of hic?
-    Hercules
+    Antaeus
 
 (5) What case is armis?
-    
+    Ablative
 
 (6) Explain the construction cum eo?
-    Cum is a preposition meaning "accomanied with" that pairs with a noun or pronoun in the     ablative case. Eo is a 
+    Cum is a preposition meaning "accomanied with" that pairs with a noun or pronoun in the ablative case. Eo is a pronoun meaning he or him in the ablative case. Therefore when they are paired together, their case agrees and nicely forms a phrase that means "with him".
 
 (7) Fully identify the form of fulmen. What function is it playing in the sentence? What type of sentence structure do we find in this sentence?
-
+    Neuter, singular, accusative. Fulmen is playing the part of the direct object. 
 
 (8) Fully identify the form of apposita est.
-
+    Third person, singular, perfect, passive, indicative
 
 (9) What is the antecedent of eam?
-
+    Hesione
 
 Please translate the above passage into idiomatic English.
-Hercules ____ Antaeus, the son of Earth, in Libya. 
+    Hercules killed Antaeus, the son of Earth, in Libya. 
+    Antaeus killed guests by wrestling. 
+    Cygnum, the son of Mars, was killed with Antaeus' arms. 
+    For his son, Mars came and fought with him using his arms, but Iouis sent lighting between them.
+    Hesione attached the whale to Troy.
+    He killed Lamendon, father of Hesione, with arrows because he did not return her. 
 
 
 
