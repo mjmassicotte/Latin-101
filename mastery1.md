@@ -1,6 +1,9 @@
+**+1 Nice! Almost perfect on first draft!**
+
+Verbs: ✅
 occidit: third, singular, indicative, perfect, active
 
-interficibat: third, singular, indicative, imperfect, active
+interficiebat: third, singular, indicative, imperfect, active
 
 necauit: third, singular, indicative, perfect, active
 
@@ -21,19 +24,19 @@ nominative       prior deus
 genitive         prioris dei
 dative           priori deo
 accusative       priorem deum
-ablative         priore deo
+ablative         priore deo❌
 
 PLURAL
 (case)           (masculine)
 nominative       priores dei
-genitive         priorum deorum
+genitive         priorum deorum ❌
 dative           prioribus deis
 accusative       priores deos
 ablative         prioribus deis
 
 
 
-"THE FORMER MENTIONED SHIP"
+"THE FORMER MENTIONED SHIP" ✅
 SINGULAR 
 (case)         
 nominative       illa nauis
@@ -52,7 +55,7 @@ ablative         illis nauibus
 
 
 
-CAPIO 
+CAPIO ✅
 third person, singular, indicative, feminine
 imperfect active      capiebat
 imperfect passive     capiebatur
@@ -61,7 +64,7 @@ perfect passive       capta est
 
 
 
-UIDEO 
+UIDEO ✅
 third person, plural, indicative, neuter
 imperfect active      uidebant
 imperfect passive     uidebantur
