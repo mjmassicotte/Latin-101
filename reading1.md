@@ -28,9 +28,9 @@
 Please translate the above passage into idiomatic English.
     Hercules killed Antaeus, the son of Earth, in Libya. 
     Antaeus killed **(his?)** guests by wrestling. 
-    Cygnum, the son of Mars, was killed with Antaeus' arms. ❌
-    For❓ **(ok, but maybe we can find a better phrase?)** his son, Mars came and fought with him using his arms, but Iouis sent lighting between them.
-    Hesione attached the whale to Troy.❌
+    Cygnum, the son of Mars, was killed with Antaeus' arms. ❌ CYGNUM, THE SON OF MARS, WAS KILLED BY HERCULES WITH ARMS.
+    For❓**(ok, but maybe we can find a better phrase?)** FOR THE SAKE OF his son, Mars came and fought with him using his arms, but Iouis sent lighting       between them.
+    Hesione attached the whale to Troy.❌ HESIONE WAS PUT NEXT TO THE SEA MONSTER AT TROY.
     He killed Laomedon, father of Hesione, with arrows because he did not return her. 
 
 
