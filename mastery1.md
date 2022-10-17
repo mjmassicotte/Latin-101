@@ -24,12 +24,12 @@ nominative       prior deus
 genitive         prioris dei
 dative           priori deo
 accusative       priorem deum
-ablative         priore deo❌
+ablative         priore deo❌ PRIORI DEO
 
 PLURAL
 (case)           (masculine)
 nominative       priores dei
-genitive         priorum deorum ❌
+genitive         priorum deorum ❌ PRIORORUM DEORUM
 dative           prioribus deis
 accusative       priores deos
 ablative         prioribus deis
