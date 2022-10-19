@@ -2,10 +2,10 @@ Daedalus pennas **sibi** et Icaro filio fecit.
   Daedalus made wings for himself and his son, Icaro.
 
 Bacchus Ariadnen amauit et **sibi** in coniugium abduxit.
-  Bacchus loved Ariadne and herself led Ariadne in marriage.
+  Bacchus loved Ariadne and he married Ariadnen for his own benefit.
 
 Pelopia gladium eripuit, et in pectus **sibi** detrusit.
-  Pelopia seized a sword, and pushed it into his chest. 
+  Pelopia took the sword, and thrust it into her chest. 
 
 Iuno Venus Minerua formam **sibi** uindicauerunt.
   Iuno laid claim to the form of Venus Minerua. 
