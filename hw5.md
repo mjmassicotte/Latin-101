@@ -8,7 +8,7 @@ His mother was Althaea.
   Is mater erat Althaea. ❌
   
 That woman was the daughter of Thestius.
-  Illa erat Thestii filiae.❌
+  Illa erat Thestii filiae.❌ ILLA FEMINA THESTIUS FILIAE ERAT. 
   
 The brothers of Althaea were killed.
   Althaea fratres interfecti sunt. ✅
