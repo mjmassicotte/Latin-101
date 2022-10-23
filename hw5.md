@@ -14,7 +14,7 @@ The brothers of Althaea were killed.
   Althaea fratres interfecti sunt. ✅
   
 A large number of his sisters, the beautiful Deianira.
-Is numeri filiae, Deianira formosa. ❌
+Is numeri filiae, Deianira formosa. ❌ EIUS SORORES, DEIANIRA FORMOSAE. 
     General rule: noun first then adjective.
   
 She was the daughter of Dexamenus,  the daughter of Oineus.
