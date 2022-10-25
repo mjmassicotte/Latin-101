@@ -1,4 +1,4 @@
-**+1 Needs revisions**
+**+2 Satisfactory**
     
 
 third-person singular of amo
@@ -10,13 +10,13 @@ imperfect passive: he is loved: **amabatur**
 third-person plural of audio
 perfect active: **audiuērunt**
 perfect passive: **audita sunt**
-imperfect active: **audibant**❌ AUDIEBANT
+imperfect active: **audibant**❌ AUDIEBANT ✅
 imperfect passive: **audiebantur**
 
 third-person singular of capio
 perfect active: **cepit**
 perfect passive: **captum est**
-imperfect active: **capebat**❌ CAPIEBANTUR
+imperfect active: **capebat**❌ CAPIEBANTUR ✅
 imperfect passive: **capiebatur**
 
 uenērunt: **uenio, third person, plural, perfect, indicative, active**
