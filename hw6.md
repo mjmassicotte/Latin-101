@@ -1,7 +1,7 @@
 **+1 Needs revisions**
 
 Niobe was the wife of **Amphion**. 
-Nioba ❓Amohionis❓ uxor erat.  
+Nioba ❓Amohionis❓ uxor erat.  NIOBA AMPHIONI UXORIS ERAT.
 
 Amphion and Niobe had many children. 
 ❓Amohion❓ et Niobe multos liberos habebant.
