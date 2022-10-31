@@ -11,8 +11,7 @@ Iuno Venus Minerua formam **sibi** uindicauerunt.
   Iuno, Venus, and Minerus each laid claim to beauty for themselves. 
 
 Ulysses fluctibus iactabatur; Leucothea balteum ei dedit et **sibi** pectus uinciret.
-  Ulysses was tossed about by the waves; Leocothea gave Ulysses a belt and Ulysses bound it about his chest. 
+  Ulysses was tossed about by the waves; Leocothea gave Ulysses a life preserver and Ulysses bound it about his chest. 
 
-Achelous fluuius in omnes figuras **se** immutabat. **hic** cum Hercule propter Deianirae coniugium pugnauit, et in taurum **se** conuertit.
-  Achelous changed himself into all different shapes in the river. He fought with           Hercules on account of Dainaira's marriage, and changed himself into a 
-  bull. 
+Achelous fluuius in omnes figuras **se** immutabat. **hic** cum Hercule propter Deianirae coniugium pugnauit, et in taurum **se** conuertit. 
+  Achelous changed itself into all different shapes. He fought with Hercules on account of Dainaira's marriage, and changed himself into a bull. 
