@@ -3,19 +3,19 @@ hic imprudens filius
 
 SINGULAR
 (case)           (masculine)     
-nominative       
-genitive         
-dative           
-accusative       
-ablative         
+nominative       hic 
+genitive         huius 
+dative           huic 
+accusative       hunc 
+ablative         hoc 
 
 PLURAL
 (case)           (masculine)
-nominative       
-genitive         
-dative           
-accusative       
-ablative         
+nominative       hi 
+genitive         horum 
+dative           his 
+accusative       hos 
+ablative         his 
 
 
 
