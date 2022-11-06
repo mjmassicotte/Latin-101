@@ -1,35 +1,46 @@
+Olim *Prometheus*, Iapetī fīlius prīmus, hominēs ex lutō **fingēbat**. Simul *Vulcānus* ex lutō fēminam **faciēbat**. *Minerva* huic fēminae animam **dedit** et omnēs deī dōna eī **misērunt**. ob id nōmen “Pandōra” ei **datum est**. Pandōra ab *Iove* in coniugium Epimetheō **data est**. Fīlia eōrum **erat** *Pyrrha*, prīma mortālis.
+
+
+What is the grammatical function of Iapetī fīlius prīmus?
+  describing Prometheus as Iapeti's first son. 
+
+Parse fingēbat and tell me what conjugation it belongs to.
+  fingō, fingere, finxī, fictus - to fashion
+  Use of the second principle part makes this form of the verb imperfect. It uses -bat the third person, active, indicative, singular ending. 
+  It belongs to the second declension. 
+
+What type of adjective is huic, what case is it in, and what word does it agree with?
+  Huic is a pronoun in the singular dative case. It agrees with the word feminae/"woman".
+
+Identify the sentence structure of omnēs deī dōna eī misērunt (linking, transitive active, transitive passive or intransitive) and the grammatical function of each word in the sentence.
+
+
+Parse data est and indicate what conjugation the verb belongs to.
+
+
+What type of grammatical construction is ab Iove?
+
+
+What tense is erat and what are the principle parts of the verb it comes from?
+
+
 Olim Prometheus, Iapetī fīlius prīmus, hominēs ex lutō fingēbat. 
-ex luto prepositional. lutum neuter noun. ex luto, accusative case.
-filius primus first son. prometheus = son. nominative, prometheus the first son. iapeti is the father
-figebat imperfct tense.
-
-Long ago, Prometheus, the son of Iapeti, 
-
+  Long ago, Prometheus, the first son of Iapeti, fashioned people out of mud. 
 
 Simul Vulcānus ex lutō fēminam faciēbat. 
-subject vulcanus
-verb faciebat
-feminam= direct object. 
-
+  At the same time, Vulcanus made a woman out of clay. 
 
 Minerva huic fēminae animam dedit 
-Minerva gave a spirit to this woman. 
-
+  Minerva gave a spirit to this woman. 
 
 et omnēs deī dōna eī misērunt. 
-and all the gods sent gifts to this one.
-
+  and all the gods sent gifts to this one.
 
 ob id nōmen “Pandōra” ei datum est. 
-datum est is the verb perfect passive. subject has to be neuter singular. ob means on account of accusative. need accusative to go with that. nomen subject.
-On account of this, the name "Pandora" was given to him. 
+  On account of this, the name "Pandora" was given to her. 
 
-
-Pandōra ab Iove in coniugium Epimetheō data est. 
-Pandora is the subject. data est perfect passive verb- may not necessarily find subject. look for ablative with ab. 
-By Jove, Pandora was given to Epimetheus through marriage. 
+Pandōra ab Iove in coniugium Epimetheō data est.  
+  By Jove, Pandora was given to Epimetheus through marriage. 
 
 Fīlia eōrum erat Pyrrha, prīma mortālis.
-erat is the verb "to be". 
-daugyter Pyrra.
-Pyrra daughter was the first mortal human. 
+  Their daughter was Pyrra, the first mortal human. 
