@@ -13,16 +13,24 @@ What type of adjective is huic, what case is it in, and what word does it agree 
   Huic is a pronoun in the singular dative case. It agrees with the word feminae/"woman".
 
 Identify the sentence structure of omnēs deī dōna eī misērunt (linking, transitive active, transitive passive or intransitive) and the grammatical function of each word in the sentence.
-
+  transitive active
+  omnes: adjective
+  dei: nominative plural
+  dona: plural accusative (direct object)
+  ei: dative (indirect object)
+  miserunt: third person, plural, perfect, active, indicative
 
 Parse data est and indicate what conjugation the verb belongs to.
-
+  dō, dāre, dedī, datus - to give
+  comes from the fourth principle part meaning it is perfect passive woth a singular feminine ending and the singular to be verb. 
+  It belongs to the first conjugation.
 
 What type of grammatical construction is ab Iove?
-
+  ab is a preposition that pairs with an ablative to describe the means or instument. Iove is the ablative case of Jupiter. 
 
 What tense is erat and what are the principle parts of the verb it comes from?
-
+  Imperfect
+  sum, es, est, --
 
 Olim Prometheus, Iapetī fīlius prīmus, hominēs ex lutō fingēbat. 
   Long ago, Prometheus, the first son of Iapeti, fashioned people out of mud. 
