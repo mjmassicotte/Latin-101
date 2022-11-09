@@ -19,10 +19,11 @@ Next, tell us that they pulled their mother Cydippe in the wagon for many hours.
 
 
 Your next sentence should express that on account of this great deed, Cydippe prayed to the gods.
-**propter, Cydippe dei(accusative, masculine) 
+**propter, Cydippe dei(accusative, masculine) precabatur.
 
 Next, relate that that night, the exhausted sons rested, and never awoke.
+**illiam nocti, fessus filii acquieuit, et numquam surrexit. 
 
 Finally, express the conclusion that Hyginus attributes to Cydippe: “To die is the best gift for mortals.” Use an infinitive as the subject of the 
 sentence (just like the English phrase, “To die is…”).
-**mori optimum est pro mortalibus
+**mori optimum est pro mortalibus**
