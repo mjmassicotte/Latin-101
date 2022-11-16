@@ -4,10 +4,10 @@ Although the Greeks **had been** in Troy for ten years, the war was not over.
   fuissent
 
 When the Greeks **captured** the city, many people were killed. (“When” refers to the circumstance, not time.)
-  cēpisset
+  cēpissent
 
 When the Greeks **captured** the city, it was not yet dawn. (“When” refers to time, not circumstance).
-  capĕret
+  ceperunt
 
 Since the city **had been captured**, Aeneas fled with his family.
   capta esset
