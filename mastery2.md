@@ -1,4 +1,6 @@
-"THIS FOOLISH SON"
+**+1 Needs revisions**
+
+"THIS FOOLISH SON" ✅
 hic imprudens filius
 
 SINGULAR
@@ -23,28 +25,28 @@ Cydippe sent the oxen **into the fields.**
   in agros
   
 They did not return **with her sons.**
-  cum eius filios
+  cum eius filios ❌
   
 **At that time**, the festival was due to begin.
-  illo temporibus
+  illo temporibus ❌
   
 Cydippe was **not able to go** to the festival.
   non poterat ire
   
 Cleops and Bitias **wanted to bring** their mother to the festival.
-  uoiui dare
+  uoiui dare ❌
   
 They yoked **themselves** to a wagon.
-  sibi
+  sibi ❌
   
 They pulled the wagon **for many hours.**
-  multa hora
+  multa hora ❌
 
 When Cydippe was brought to the festival **by her sons**, all the onlookers were amazed.
-  ab filiibus
+  ab filiibus ❌
 
 Cydippe asked the gods to grant **to her and to her sons** the best gift possible for mortals.
-  sibi et filiibus
+  sibi et filiibus ❌
 
 **That night**, they fell asleep and never woke up.
   illa nocte
