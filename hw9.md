@@ -23,3 +23,6 @@ No one saw the Achaean leaders get out of the horse.
 
 When they saw that the guards of the gates had been killed, the Trojans understood that the Achaean leaders had been hidden in the horse.
   Cum 
+The trojans understood = main clause, indicative verb 
+that... ; indirect statement 
+when they saw: subjunctive verb 
